@@ -1,22 +1,16 @@
-p {
-    background-color: pink;
-    font-family: Verdana, 'DejaVu Sans', sans-serif; 
+* {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman' sans-serif;
 }
 
-#Number2 {
+.click-me{
 
-    color:blue;
-    font-size: 36px;
+    background-color: black;
+    color: white;
 }
 
-#Number4 {
+.no-me{
 
-    background-color: lightgreen;
-    font-size: 24px;
-    font-weight: bold;
-}
+    background-color: yellow;
 
-.Number3 {
-
-    font-size: 36px;
 }
